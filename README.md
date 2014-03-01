@@ -1,6 +1,6 @@
-devops-do
-=========
+devops-get
+==========
 
-Java command line application for [devops-win]
+Java command line application for [devops-env]
 
-[devops-win]: https://github.com/duckspot/devops-win
+[devops-env]: https://github.com/duckspot/devops-env
